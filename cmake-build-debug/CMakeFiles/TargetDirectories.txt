@@ -1,0 +1,3 @@
+C:/OneDrive/Desktop/CLionProjects/MiniRedis/cmake-build-debug/CMakeFiles/MiniRedis.dir
+C:/OneDrive/Desktop/CLionProjects/MiniRedis/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/OneDrive/Desktop/CLionProjects/MiniRedis/cmake-build-debug/CMakeFiles/rebuild_cache.dir
