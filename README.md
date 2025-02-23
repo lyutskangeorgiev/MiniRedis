@@ -16,7 +16,7 @@ Prerequisites:
 
 Build:
 1. Clone the repository:
-   git clone https://github.com/yourusername/mini-redis.git
+   git clone https://github.com/lyutskangeorgiev/mini-redis.git
    cd mini-redis
 
 2. Compile the project:
